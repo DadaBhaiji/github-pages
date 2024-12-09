@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FastTrack Stocks</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="container">
+            <h1>Be First to Know. Be First to Act.</h1>
+            <p>Stay ahead of the market with real-time stock news from BSE filings.</p>
+            <a href="#subscribe" class="cta-btn">Start for Free</a>
+        </div>
+    </header>
+
+    <!-- Real-Time Ticker Section -->
+    <section class="ticker">
+        <h2>Live Market Updates</h2>
+        <div class="ticker-feed">
+            <marquee behavior="scroll" direction="left">🚨 [Company Name]: Quarterly Earnings Released - Profits Up 15%! | 🚨 Market Update: Nifty crosses 19,500...</marquee>
+        </div>
+    </section>
+
+    <!-- Subscription Plans -->
+    <section id="subscribe" class="pricing">
+        <h2>Choose Your Plan</h2>
+        <div class="pricing-cards">
+            <div class="card">
+                <h3>Free Plan</h3>
+                <p>1-month free trial</p>
+                <p>Track up to 3 stocks</p>
+                <a href="#" class="cta-btn">Start for Free</a>
+            </div>
+            <div class="card">
+                <h3>Basic Plan</h3>
+                <p>₹499/month</p>
+                <p>Track up to 10 stocks</p>
+                <a href="#" class="cta-btn">Subscribe Now</a>
+            </div>
+            <div class="card">
+                <h3>Premium Plan</h3>
+                <p>₹999/month</p>
+                <p>Track unlimited stocks</p>
+                <a href="#" class="cta-btn">Subscribe Now</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <h2>What Our Users Say</h2>
+        <div class="testimonials-container">
+            <blockquote>
+                "FastTrack Stocks saved me hours! I get news before the media. Absolute game-changer!" - Anjali M.
+            </blockquote>
+            <blockquote>
+                "The alerts are spot on and timely. Perfect for active traders!" - Vikram S.
+            </blockquote>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>© 2025 FastTrack Stocks | All Rights Reserved</p>
+            <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a>
+        </div>
+    </footer>
+</body>
+</html>
